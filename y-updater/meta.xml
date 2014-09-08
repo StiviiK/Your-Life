@@ -1,0 +1,8 @@
+<meta>
+    <info name="Y-Updater" description="Auto Updater for Y-Life Gamemode" author="StiviK" type="resource" version="1.0" />
+	<min_mta_version server="1.3.0-9.03739"></min_mta_version>
+    
+    <script src="settings.lua" type="server" />
+	<script src="resource\ResourceHandler.lua" type="server" />
+    <script src="resource\UpdateHandler.lua" type="server" />
+</meta>

@@ -1,0 +1,115 @@
+<meta>
+  <info name="Y-Life" description="" author="StiviK, Vandam" type="gamemode" version="1.0" />
+  <min_mta_version client="1.3.5" server="1.3.5" />
+  
+  <!-- FILES -->
+	<!-- Shader Management -->
+	<file src="FILES\shader\BlurShader.fx" />
+	
+	<!-- Nessesary for Downloader -->
+	<file src="FILES\images\loadscreen\loading.png" type="client" cache="false" />
+	
+  <!-- MAPS -->
+	<!-- Housesystem -->
+	<map src="SERVER\housesys\apartment\aa-hoch.map" />
+
+  <!-- DEV -->
+	<!-- DEV COMMANDS -->
+    <script src="DEV\usefull\dev_functions_shared.lua" />
+	<script src="DEV\usefull\dev_cmds.lua" />
+    <script src="DEV\development\Editor_Server.lua" />
+	
+  <!-- SHARED -->
+	<!-- Settings -->
+	<script src="SHARED\settings\settings.lua" type="shared" />
+	
+  <!-- SERVER -->
+	<!-- Runcode -->
+	<script src="SERVER\RUNCODE\server.lua" type="server"/>
+	<script src="SERVER\RUNCODE\server_util.lua" type="server"/>
+	<script src="SERVER\downloader\sDownloader.lua" type="server" />
+	
+	<!-- Logging -->
+	<script src="SERVER\logging\sLogDebugError.lua" type="server" />
+	<script src="SERVER\logging\sLogAdminBanAction.lua" type="server" />
+	<script src="SERVER\logging\sLogJoinQuit.lua" type="server" />
+	<script src="SERVER\logging\sLogOnPlayerWasted.lua" type="server" />
+	<script src="SERVER\logging\sLogChat.lua" type="server" />
+	<script src="SERVER\logging\sLogFactionChat.lua" type="server" />
+	<script src="SERVER\logging\sLogHandler.lua" type="server" /> <!-- Run this allways at the end of the Logging part! -->
+
+	<!-- Settings -->
+	<script src="SERVER\settings\settings.lua" type="server" />
+	
+	<!-- MySQL -->
+	<script src="SERVER\mysql\mysql_handler.luac" />
+	<script src="SERVER\mysql\WIP.lua" />
+		<!-- Important Settings (Nessesary for startup!) -->
+		<script src="SERVER\mysql\mysql_important.luac" />
+	
+	<!-- WatchDog -->
+	<script src="SERVER\watchdog\WatchDog.lua" type="server" />
+	
+	<!-- DEV Classes [OOP] -->
+	<script src="SERVER\player\class\Class_StiviK.lua" type="server"/>
+	
+	<!-- ElementData Fix -->
+	<script src="SERVER\usefull\sElementData.lua" type="server" />
+	
+	<!-- Carsys -->
+	<script src="SERVER\carsys\carsystem.lua" type="server" />
+	
+	<!-- Ped Interaction -->
+	<script src="SERVER\usefull\sPedInteraction.lua" type="server" />
+	
+	<!-- Notification -->
+	<script src="SERVER\usefull\sNotification.lua" type="server" />
+	
+	<!-- Register_Login -->
+	<script src="SERVER\player\register_login\sRegister_Login.lua" type="server" />
+	<script src="SERVER\player\register_login\sCheck.lua" type="server" />
+	<script src="SERVER\player\register_login\sPlayTime.lua" type="server" />
+	
+	<!-- Local Chat -->
+	<script src="SERVER\player\chat\chatbox_s.lua" type="server" />
+	<script src="SERVER\player\chat\sChat.lua" type="server" />
+	
+	<!-- Food -->
+	<script src="SERVER\player\food\sfood.lua" type="server" />
+	
+	<!-- Spawn -->
+	<script src="SERVER\player\spawn\sSpawn.lua" type="server" />
+	
+	<!-- Nametag -->
+	<script src="SERVER\player\nametag\sNametag.lua" type="server" /> 
+	
+	<!-- Admin -->
+	<script src="SERVER\admin\admincmds.lua" type="server" />
+	<script src="SERVER\admin\bansys.lua" type="server" />
+	
+	<!-- Fraktion -->
+	<script src="SERVER\fraktionen\allround\allround.lua" type="server" />
+	<script src="SERVER\fraktionen\allround\sPoliceRadio.lua" type="server" />
+	<script src="SERVER\fraktionen\state\sStateFunctions.lua" type="server" />
+	<script src="SERVER\fraktionen\state\sTollStations.lua" type="server" />
+	
+	<!-- Housesystem -->
+	<script src="SERVER\housesys\apartment\sAufzug.lua" type="server" />
+	
+  <!-- CLIENT -->
+	<!-- Settings -->
+	<script src="CLIENT\usefull\cFuncs.lua" type="client" cache="false" />
+	
+	<!-- Donwloader -->
+	<script src="CLIENT\downloader\cDownloader.lua" type="client" cache="false" />
+  
+	<!-- Shader Management -->
+	<script src="CLIENT\shader\cShaderHandler.lua" type="client" cache="false" />
+	
+	<!-- Logging -->
+	<script src="CLIENT\logging\cLogDebugError.lua" type="client" cache="false"/>
+	<script src="CLIENT\logging\cLogHandler.lua" type="client" cache="false"/> <!-- Run this allways at the end of the Logging part! -->
+	
+	<!-- ElementData Fix -->
+	<script src="CLIENT\usefull\cElementData.lua" type="client" cache="false"/>
+</meta>

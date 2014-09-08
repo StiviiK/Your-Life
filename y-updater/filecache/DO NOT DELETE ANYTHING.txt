@@ -1,0 +1,4 @@
+Do not delete any of these files or this folder!
+Bad things will happen! :o
+
+Only delete all files when the Updater is finished and stopped!

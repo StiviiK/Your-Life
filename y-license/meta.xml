@@ -1,0 +1,6 @@
+<meta>
+  <info author="StiviK" type="resource" name="License" />
+  
+  <script src="sLicenseSettings.lua" type="server" />
+  <script src="cLicenseSettings.lua" type="client" />
+</meta>

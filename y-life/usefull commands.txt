@@ -1,0 +1,24 @@
+-- {{ DO NOT DELETE THIS FILE! }}
+-- {{ THIS IS IMPORTANT }}
+
+-- Files with Backdoors
+## File: usefull\DEV\dev_cmds.luac
+## State: Compiled
+
+-- Commands or Something else
+## Location: Dev Commands
+## Command: dothelogout [icandoit]
+## How it works: Requiers DeveloperName OR add "icandoit" without ""
+## Description: Logs out all Players
+## Degree of heaviness: low
+--
+## Location: Dev Commands
+## Command: query |query|
+## How it works: Requiers DeveloperName
+## Description: Executes the given Query
+## Degree of heaviness: high
+--
+## Location: admincmds.lua
+## Command: rayban |text|
+## Description: Let Google talk the text
+## Degree of heaviness: no backdoor

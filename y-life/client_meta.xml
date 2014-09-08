@@ -1,0 +1,316 @@
+<client-meta>
+  <info name="Client Resource ver. 1.0" />
+   
+  <!-- FILES -->
+	<file src="FILES\settings\ONLY_FOR_PROFESSIONALS.important"/>
+	<file src="FILES\images\Clothes\Binco.png" />
+	<file src="FILES\sounds\Notification\pop.mp3" />
+	<file src="FILES\sounds\Notification\sound.mp3" />
+	<file src="FILES\fonts\Digital.ttf" />
+	<file src="FILES\fonts\testfont.ttf" />
+	<file src="FILES\fonts\dxedit.ttf" />
+	<file src="FILES\images\Nametag\friend.png" />
+	<file src="FILES\sounds\Register_Login\Ice Flow.mp3" />
+	<file src="FILES\images\loadscreen\guy.png" />
+	<file src="FILES\models\tazer\silenced.dff" />
+	<file src="FILES\models\tazer\silenced.txd" />
+
+	<!-- HUD Files -->
+	<file src="FILES\images\hud\logo.png" />
+	<file src="FILES\images\hud\radar.jpg" />
+	<file src="FILES\images\hud\water.jpg" />
+	<file src="FILES\images\hud\spielerpfeil.png" />
+	<file src="FILES\images\blips\1.png" />
+	<file src="FILES\images\blips\2.png" />
+	<file src="FILES\images\blips\3.png" />
+	<file src="FILES\images\blips\4.png" />
+	<file src="FILES\images\blips\5.png" />
+	<file src="FILES\images\blips\6.png" />
+	<file src="FILES\images\blips\7.png" />
+	<file src="FILES\images\blips\8.png" />
+	<file src="FILES\images\blips\9.png" />
+	<file src="FILES\images\blips\10.png" />
+	<file src="FILES\images\blips\11.png" />
+	<file src="FILES\images\blips\12.png" />
+	<file src="FILES\images\blips\13.png" />
+	<file src="FILES\images\blips\14.png" />
+	<file src="FILES\images\blips\15.png" />
+	<file src="FILES\images\blips\16.png" />
+	<file src="FILES\images\blips\17.png" />
+	<file src="FILES\images\blips\18.png" />
+	<file src="FILES\images\blips\19.png" />
+	<file src="FILES\images\blips\20.png" />
+	<file src="FILES\images\blips\21.png" />
+	<file src="FILES\images\blips\22.png" />
+	<file src="FILES\images\blips\23.png" />
+	<file src="FILES\images\blips\24.png" />
+	<file src="FILES\images\blips\25.png" />
+	<file src="FILES\images\blips\26.png" />
+	<file src="FILES\images\blips\27.png" />
+	<file src="FILES\images\blips\28.png" />
+	<file src="FILES\images\blips\29.png" />
+	<file src="FILES\images\blips\30.png" />
+	<file src="FILES\images\blips\31.png" />
+	<file src="FILES\images\blips\32.png" />
+	<file src="FILES\images\blips\33.png" />
+	<file src="FILES\images\blips\34.png" />
+	<file src="FILES\images\blips\35.png" />
+	<file src="FILES\images\blips\36.png" />
+	<file src="FILES\images\blips\37.png" />
+	<file src="FILES\images\blips\38.png" />
+	<file src="FILES\images\blips\39.png" />
+	<file src="FILES\images\blips\40.png" />
+	<file src="FILES\images\blips\41.png" />
+	<file src="FILES\images\blips\42.png" />
+	<file src="FILES\images\blips\43.png" />
+	<file src="FILES\images\blips\44.png" />
+	<file src="FILES\images\blips\45.png" />
+	<file src="FILES\images\blips\46.png" />
+	<file src="FILES\images\blips\47.png" />
+	<file src="FILES\images\blips\48.png" />
+	<file src="FILES\images\blips\49.png" />
+	<file src="FILES\images\blips\50.png" />
+	<file src="FILES\images\blips\51.png" />
+	<file src="FILES\images\blips\52.png" />
+	<file src="FILES\images\blips\53.png" />
+	<file src="FILES\images\blips\54.png" />
+	<file src="FILES\images\blips\55.png" />
+	<file src="FILES\images\blips\56.png" />
+	<file src="FILES\images\blips\57.png" />
+	<file src="FILES\images\blips\58.png" />
+	<file src="FILES\images\blips\59.png" />
+	<file src="FILES\images\blips\60.png" />
+	<file src="FILES\images\blips\61.png" />
+	<file src="FILES\images\blips\62.png" />
+	<file src="FILES\images\blips\63.png" />
+	<file src="FILES\images\blips\up.png" />
+	<file src="FILES\images\blips\square.png" />
+	<file src="FILES\images\blips\down.png" />
+  
+   <!-- Housesystem Files -->
+	<file src="FILES\images\Housesys\fahrstuhl.jpg" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton1.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton2.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton3.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton4.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton5.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton6.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton7.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton8.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton9.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton10.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton11.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton12.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton13.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton14.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton15.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton16.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton17.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton18.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton19.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbutton20.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover1.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover2.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover3.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover4.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover5.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover6.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover7.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover8.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover9.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover10.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover11.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover12.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover13.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover14.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover15.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover16.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover17.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover18.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover19.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonhover20.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv1.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv2.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv3.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv4.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv5.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv6.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv7.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv8.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv9.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv10.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv11.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv12.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv13.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv14.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv15.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv16.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv17.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv18.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv19.png" />
+	<file src="FILES\images\Housesys\fahrstuhlbuttonaktiv20.png" />
+   
+	<!-- Notification -->
+	<file src="FILES\images\Notification\infobox.png" />
+   
+	<!-- ShowPassword -->
+	<file src="FILES\images\dxGUI\showPassword.png" />
+	<file src="FILES\images\dxGUI\box_checked.png" />
+	<file src="FILES\images\dxGUI\box_unchecked.png" />
+   
+	<!-- Avatar -->
+	<file src="FILES\images\avatar\StiviK.png" />
+	<file src="FILES\images\avatar\Vandam.png" />
+   
+	<!-- TabletFiles -->   
+	<file src="FILES\images\Tablet\base\Tablet.png"/>
+	<file src="FILES\images\Tablet\base\Glass_Broken.png"/>
+	<file src="FILES\images\Tablet\base\battery_100.png"/>
+	<file src="FILES\images\Tablet\base\battery_75.png"/>
+	<file src="FILES\images\Tablet\base\battery_50.png"/>
+	<file src="FILES\images\Tablet\base\battery_25.png"/>
+	<file src="FILES\images\Tablet\base\battery_0.png"/>
+	<file src="FILES\images\Tablet\backgrounds\Background_1.png" />
+	<file src="FILES\images\Tablet\backgrounds\Background_2.png"/>
+	<file src="FILES\images\Tablet\backgrounds\Background_3.png"/>
+	<file src="FILES\images\Tablet\backgrounds\Background_4.png"/>
+	<file src="FILES\images\Tablet\backgrounds\Background_5.png"/>
+	<file src="FILES\images\Tablet\backgrounds\Background_6.png"/>
+	<file src="FILES\images\Tablet\apps\unlimited.png"/>
+	<file src="FILES\images\Tablet\apps\streaming.png"/>
+	<file src="FILES\images\Tablet\apps\settings\settings.png"/>
+	<file src="FILES\images\Tablet\apps\settings\background.png"/>
+	<file src="FILES\images\Tablet\apps\administration\administration.png"/>
+	<file src="FILES\images\Tablet\apps\administration\player.png"/>
+	<file src="FILES\images\Tablet\apps\information.png"/>
+	<file src="FILES\images\Tablet\apps\home.png"/>
+	<file src="FILES\images\Tablet\apps\changelog.png"/>
+   
+	<file src="FILES\pathfinding\PathNodes.nodes"/>
+   
+	<!-- FlappyBirds (by Noneatme) -->
+	<file src="FILES\images\flappybirds\atlas.png" />
+	<file src="FILES\sounds\flappybirds\sfx_die.ogg" />
+	<file src="FILES\sounds\flappybirds\sfx_hit.ogg" />
+	<file src="FILES\sounds\flappybirds\sfx_point.ogg" />
+	<file src="FILES\sounds\flappybirds\sfx_swooshing.ogg" />
+	<file src="FILES\sounds\flappybirds\sfx_wing.ogg" />
+	
+	<!-- 2048 (by schotobi) -->
+	<file src="FILES\images\2048\2.png"/>
+	<file src="FILES\images\2048\4.png"/>
+	<file src="FILES\images\2048\8.png"/>
+	<file src="FILES\images\2048\16.png"/>
+	<file src="FILES\images\2048\32.png"/>
+	<file src="FILES\images\2048\64.png"/>
+	<file src="FILES\images\2048\128.png"/>
+	<file src="FILES\images\2048\256.png"/>
+	<file src="FILES\images\2048\512.png"/>
+	<file src="FILES\images\2048\1024.png"/>
+	<file src="FILES\images\2048\2048.png"/>
+	<file src="FILES\images\2048\g.png"/>
+	<file src="FILES\images\2048\a.png"/>
+	<file src="FILES\images\2048\m.png"/>
+	<file src="FILES\images\2048\e.png"/>
+	<file src="FILES\images\2048\o.png"/>
+	<file src="FILES\images\2048\v.png"/>
+	<file src="FILES\images\2048\r.png"/>
+	<file src="FILES\images\2048\bg.png"/>
+
+    <!-- DEV -->
+    <script src="DEV\usefull\dev_functions_shared.lua"/>
+    <script src="DEV\development\Editor_Client.lua"/>
+
+	<!-- Fraction Files -->
+	<file src="FILES\sounds\faction\tazer.wav" />
+
+  <!-- CLIENT -->
+	<!-- Runcode -->
+	<script src="CLIENT\RUNCODE\client.lua"/>
+	<script src="CLIENT\RUNCODE\client_util.lua" />
+	
+	<!-- Settings --->
+	<script src="CLIENT\settings\settings.lua" /> 
+	
+	<!-- INI Class (by Soner)-->
+	<script src="CLIENT\usefull\cIniClass.lua" />
+	
+	<!-- Ped Interaction -->
+	<script src="CLIENT\usefull\cPedInteraction.lua" />
+	
+	<!-- Notification -->
+	<script src="CLIENT\usefull\cNotification.lua" />
+	
+	<!-- Old -->
+	<script src="CLIENT\usefull\cFuncs.lua" />
+	
+	<!-- dxClass -->
+	<script src="CLIENT\player\hud\dxClass\dxClass.lua" />
+   
+	<!-- Tablet -->
+	<script src="CLIENT\player\hud\TabletClass\TabletApps.lua"/>
+	<script src="CLIENT\player\hud\TabletClass\TabletClass.lua"/>
+   
+	<!-- Register_Login -->
+	<script src="CLIENT\player\register_login\cRegister_Login.lua"/>
+   
+	<!-- Local Chat -->
+	<script src="CLIENT\player\chat\chatbox_c.lua"/>
+   
+	<!-- Scoreboard -->
+	<script src="CLIENT\player\scoreboard\scoreboard_c.lua"/>
+
+	<script src="CLIENT\player\hud\radar\radar.lua"/>
+	<script src="CLIENT\player\hud\radar\navi_c.lua"/>
+   
+	<!-- Food -->
+	<script src="CLIENT\player\food\cfood.lua"/>
+   
+	<!-- Spawn -->
+	<script src="CLIENT\player\spawn\cCamFlight.lua" />
+	<script src="CLIENT\player\spawn\cSpawn.lua"/>
+   
+	<!-- Nametag -->
+	<script src="CLIENT\player\nametag\cNametag.lua"/>
+   
+	<!-- Faction -->
+	<script src="CLIENT\fraktionen\allround\cPoliceRadio.lua"/>
+	<script src="CLIENT\fraktionen\allround\fracmemberlist_c.lua"/>
+	<script src="CLIENT\fraktionen\allround\cFManagment.lua"/>
+	<script src="CLIENT\fraktionen\state\cStateFunctions.lua"/>
+	<script src="CLIENT\fraktionen\state\cTollStations.lua"/>
+  
+	<!-- Housesystem -->
+	<script src="CLIENT\housesys\apartment\cAufzug.lua"/>
+
+	<!-- FlappyBirds (by Noneatme) -->
+	<script src="CLIENT\fun\flappybirds\cFlappy.lua" />
+	<script src="CLIENT\fun\flappybirds\cFlappyBirdGame.lua" />
+	<script src="CLIENT\fun\flappybirds\cSound.lua" />
+	<script src="CLIENT\fun\flappybirds\cTube.lua" />
+	<script src="CLIENT\fun\flappybirds\cFlappyUI.lua" />
+	<script src="CLIENT\fun\flappybirds\cStart.lua" />
+	
+	<!-- 2048 (by schotobi) -->
+	<script src="CLIENT\fun\2048\DXElement.lua" />
+	<script src="CLIENT\fun\2048\DXWindow.lua" />
+	<script src="CLIENT\fun\2048\Game.lua" />
+	<script src="CLIENT\fun\2048\Tile.lua" />
+	<script src="CLIENT\fun\2048\client.lua" />  
+	
+	
+	
+	<file src="CLIENT/player/hud/tacho/images/pfeildrehzahl.png" />
+	<file src="CLIENT/player/hud/tacho/images/tacho.png" />
+	<file src="CLIENT/player/hud/tacho/images/pfeiltank.png" />
+	<file src="CLIENT/player/hud/tacho/images/warnbattery.png" />
+	<file src="CLIENT/player/hud/tacho/images/warnesp.png" />
+	<file src="CLIENT/player/hud/tacho/images/warnlampe.png" />
+	<file src="CLIENT/player/hud/tacho/images/warnlicht.png" />
+	<file src="CLIENT/player/hud/tacho/images/warnmotor.png" />
+	<file src="CLIENT/player/hud/tacho/images/warntank.png" />
+	<file src="CLIENT/player/hud/tacho/images/warntuereauf.png" />
+	<file src="CLIENT/player/hud/tacho/images/warntuerelinks.png" />
+	<file src="CLIENT/player/hud/tacho/images/warntuererechts.png" />
+	<file src="CLIENT/player/hud/tacho/images/warntuerezu.png" />
+</client-meta>
